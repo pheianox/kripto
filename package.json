@@ -1,0 +1,36 @@
+{
+  "name": "vite-template-solid",
+  "version": "0.0.0",
+  "description": "",
+  "scripts": {
+    "start": "vite",
+    "dev": "vite",
+    "build": "vite build",
+    "serve": "vite preview"
+  },
+  "license": "MIT",
+  "devDependencies": {
+    "@types/crypto-js": "^4.1.1",
+    "@types/file-saver": "^2.0.5",
+    "@types/lodash": "^4.14.186",
+    "autoprefixer": "^10.4.12",
+    "daisyui": "^2.31.0",
+    "postcss": "^8.4.17",
+    "tailwindcss": "^3.1.8",
+    "typescript": "^4.8.2",
+    "vite": "^3.0.9",
+    "vite-plugin-solid": "^2.3.0"
+  },
+  "dependencies": {
+    "caeser-cipher-js": "^2.0.0",
+    "crypto-js": "^4.1.1",
+    "file-saver": "^2.0.5",
+    "hex-generator": "^1.0.1",
+    "js-crypto-rsa": "^1.0.4",
+    "lodash": "^4.17.21",
+    "solid-icons": "^1.0.1",
+    "solid-js": "^1.5.1",
+    "xcaesar": "^2.1.0",
+    "xmorse": "^1.0.0"
+  }
+}
